@@ -15,7 +15,7 @@ PostgreSQL instalado localmente o gestionado (Supabase, Neon u otro)
 
 Clonar repositorio
 git clone https://github.com/
-https://github.com/arielrosenmann94/poke-party-backend.git
+https://github.com/arielrosenmann94/poke-party-frontend.git
 cd poke-party-backend
 
 ##Instalar dependencias
